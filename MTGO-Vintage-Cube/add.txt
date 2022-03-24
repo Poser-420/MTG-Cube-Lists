@@ -1,0 +1,107 @@
+1 Esper Sentinel (J21) 75
+1 Cathar Commando (MID) 10
+1 Lion Sash (NEO) 26
+1 Adeline, Resplendent Cathar (MID) 312
+1 Elite Spellbinder (STX) 17
+1 Palace Jailer (TSR) 298
+1 Archangel Avacyn // Avacyn, the Purifier (V17) 1
+1 Karmic Guide (VOC) 90
+1 The Wandering Emperor (NEO) 42
+1 Ephemerate (H1R) 1
+1 Spear of Heliod (THS) 33
+1 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
+1 Gilded Drake (USG) 76
+1 Hullbreaker Horror (VOW) 63
+1 Jin-Gitaxias, Progress Tyrant (NEO) 59
+1 Murktide Regent (MH2) 52
+1 Thirst for Discovery (VOW) 85
+1 Memory Deluge (MID) 62
+1 Mystic Confluence (TSR) 312
+1 Portent (MB1) 458
+1 Echo of Eons (MH1) 46
+1 Cryptbreaker (HA1) 6
+1 Bloodghast (PLIST) 85
+1 Dauthi Voidwalker (MH2) 81
+1 Mesmeric Fiend (A25) 97
+1 Scrapheap Scrounger (KLR) 268
+1 Skyclave Shade (PLIST) 317
+1 Vampire Hexmage (TSR) 335
+1 Nashi, Moon Sage's Scion (NEO) 114
+1 Sedgemoor Witch (STX) 86
+1 Braids, Cabal Minion (MH2) 273
+1 Grief (MH2) 87
+1 Custodi Lich (PZ2) 22
+1 Archon of Cruelty (MH2) 75
+1 Liliana, the Last Hope (PLIST) 362
+1 Infernal Grasp (MID) 107
+1 Snuff Out (GVL) 53
+1 Dragon's Rage Channeler (J21) 438
+1 Bloodthirsty Adversary (MID) 129
+1 Dockside Extortionist (C19) 24
+1 Voltaic Visionary // Volt-Charged Berserker (VOW) 183
+1 Bonecrusher Giant // Stomp (PLIST) 318
+1 Laelia, the Blade Reforged (C21) 53
+1 Fury (MH2) 126
+1 Thundermaw Hellkite (IMA) 149
+1 Red Elemental Blast (A25) 147
+1 Wheel of Misfortune (CMR) 211
+1 Jokulhaups (ME1) 100
+1 Destructive Force (M11) 133
+1 Goblin Bombardment (MH2) 279
+1 Underworld Breach (THB) 161
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
+1 Elvish Reclaimer (M20) 169
+1 Augur of Autumn (MID) 168
+1 Circle of Dreams Druid (AFR) 176
+1 Magus of the Order (CMR) 242
+1 Toski, Bearer of Secrets (KHM) 197
+1 Kogla, the Titan Ape (IKO) 162
+1 Tovolar's Huntmaster // Tovolar's Packleader (MID) 204
+1 Hornet Queen (C21) 193
+1 Garruk Relentless // Garruk, the Veil-Cursed (V17) 9
+1 Crop Rotation (2XM) 161
+1 Worldly Tutor (CC1) 6
+1 Pest Infestation (C21) 65
+1 Life from the Loam (SLD) 8
+1 Utopia Sprawl (AFC) 172
+1 Satoru Umezawa (NEO) 234
+1 Bloodtithe Harvester (VOW) 232
+1 Olivia, Crimson Bride (VOW) 245
+1 Halana and Alena, Partners (VOW) 239
+1 Escape to the Wilds (ELD) 189
+1 Archon of Valor's Reach (C20) 202
+1 Damn (MH2) 80
+1 Lurrus of the Dream-Den (Q06) 9
+1 Spirit-Sister's Call (NEO) 237
+1 Expressive Iteration (STX) 186
+1 Vraska, Golgari Queen (GRN) 213
+1 The Gitrog Monster (MB1) 1430
+1 Suspicious Stowaway // Seafaring Werewolf (MID) 80
+1 Edric, Spymaster of Trest (C16) 195
+1 Tamiyo, Compleated Sage (NEO) 238
+1 Ignoble Hierarch (MH2) 166
+1 Eater of Virtue (NEO) 245
+1 Retrofitter Foundry (C18) 57
+1 Deserted Beach (MID) 281
+1 Seachrome Coast (ZNE) 11
+1 Shipwreck Marsh (MID) 285
+1 Haunted Ridge (MID) 282
+1 Rockfall Vale (MID) 284
+1 Horizon Canopy (FUT) 177
+1 Overgrown Farmland (MID) 283
+1 Shattered Sanctum (VOW) 283
+1 Silent Clearing (MH1) 246
+1 Fiery Islet (MH1) 238
+1 Stormcarved Coast (VOW) 284
+1 Deathcap Glade (VOW) 281
+1 Nurturing Peatland (MH1) 243
+1 Sunbaked Canyon (MH1) 247
+1 Sundown Pass (VOW) 285
+1 Dreamroot Cascade (VOW) 282
+1 Waterlogged Grove (MH1) 249
+1 Boseiju, Who Endures (NEO) 266
+1 Dark Depths (PLIST) 347
+1 Field of the Dead (M20) 247
+1 Thespian's Stage (2XM) 327
+1 Urza's Saga (MH2) 259
+1 Volrath's Stronghold (TPR) 248
